@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🎓I'm a Computer Engineering student @ the University of Waterloo ([Check our my Portfolio](https://ryanguyen2.github.io/) )<br><br>✨I'm extremely interested in full stack development, product design, and creating tech to impact our communities and improve our everyday lives.<br><br>💻Currently working on "Simmer" - a social media app for home-cooks (using MERN)<br><br>🏀Outside of lecture hours, you'll find me playing basketball and volleyball, binge-watching shows, trying new recipes, and making Spotify playlists.<br><br>📥Feel free to reach out by email: rnguyen2102@gmail.com or r27nguye@uwaterloo.ca works!<br><br>🚀Fun-fact: I don't know how to swim :(
+🎓I'm a Computer Engineering student @ the University of Waterloo ([Check out my Portfolio](https://ryanguyen2.github.io/) )<br><br>✨I'm extremely interested in full stack development, product design, and creating tech to impact our communities and improve our everyday lives.<br><br>💻Currently working on "Simmer" - a social media app for home-cooks (using MERN)<br><br>🏀Outside of lecture hours, you'll find me playing basketball and volleyball, binge-watching shows, trying new recipes, and making Spotify playlists.<br><br>📥Feel free to reach out by email: rnguyen2102@gmail.com or r27nguye@uwaterloo.ca works!<br><br>🚀Fun-fact: I don't know how to swim :(
 
 
 ## 🌐 Socials:
