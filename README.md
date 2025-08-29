@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryanguyen2" alt="ryanguyen2" /></a> </p>
 
-- 🔭 I’m currently working on **"Simmer" - a MERN project to create social media catered to home-cooks!**
+- 🔭 I’m currently working on **a MERN project**
 
 - 🌱 I’m currently learning **backend development**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything! I'd love to talk.**
 
-- 📫 How to reach me **rnguyen2102@gmail.com**
+- 📫 How to reach me **rnguyen2102@gmail.com or r27nguye@uwaterloo.ca**
 
 - ⚡ Fun fact **I don't know how to swim :(**
 
